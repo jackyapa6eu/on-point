@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/on-point/static/css/main.320eb8a3.chunk.css",
+    "main.js": "/on-point/static/js/main.dd51c1e7.chunk.js",
+    "main.js.map": "/on-point/static/js/main.dd51c1e7.chunk.js.map",
+    "runtime-main.js": "/on-point/static/js/runtime-main.253906e2.js",
+    "runtime-main.js.map": "/on-point/static/js/runtime-main.253906e2.js.map",
+    "static/js/2.217f38ac.chunk.js": "/on-point/static/js/2.217f38ac.chunk.js",
+    "static/js/2.217f38ac.chunk.js.map": "/on-point/static/js/2.217f38ac.chunk.js.map",
+    "static/js/3.8f0a9867.chunk.js": "/on-point/static/js/3.8f0a9867.chunk.js",
+    "static/js/3.8f0a9867.chunk.js.map": "/on-point/static/js/3.8f0a9867.chunk.js.map",
+    "index.html": "/on-point/index.html",
+    "static/css/main.320eb8a3.chunk.css.map": "/on-point/static/css/main.320eb8a3.chunk.css.map",
+    "static/js/2.217f38ac.chunk.js.LICENSE.txt": "/on-point/static/js/2.217f38ac.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/on-point/static/media/gilroy-ultralight.e7028e6c.eot",
+    "static/media/footer__logo.37894a90.svg": "/on-point/static/media/footer__logo.37894a90.svg",
+    "static/media/header__logo.4917db0d.svg": "/on-point/static/media/header__logo.4917db0d.svg",
+    "static/media/HelloPage.css": "/on-point/static/media/hello-page-bg.9154d258.png",
+    "static/media/MainMessage.css": "/on-point/static/media/main-message-bg.67b072fa.png",
+    "static/media/main-message-page__bottle.3a32a8ad.png": "/on-point/static/media/main-message-page__bottle.3a32a8ad.png",
+    "static/media/TextMessagePage.css": "/on-point/static/media/text-message-bg.6ddcf07d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.253906e2.js",
+    "static/js/2.217f38ac.chunk.js",
+    "static/css/main.320eb8a3.chunk.css",
+    "static/js/main.dd51c1e7.chunk.js"
+  ]
+}
