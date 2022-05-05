@@ -1,0 +1,61 @@
+.hello-page {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding-left: 6.6%;
+  padding-top: 15.8%;
+  background-image: url('../../images/hello-page-bg.png');
+  background-size: cover;
+}
+
+.hello-page::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/hello-page-bg-img-top.png');
+  background-size: 100vw;
+  background-position: 0 6%;
+  background-repeat: no-repeat;
+}
+
+.hello-page::after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../../images/hello-page-bg-img-bottom.png');
+  background-size: 75vw;
+  background-position: 0px 100%;
+  background-repeat: no-repeat;
+}
+
+.hello-page__header {
+  white-space: pre-line;
+  margin: 0;
+  font-size: 108px;
+  font-family: 'Gilroy-UltraLight';
+  display: inline;
+  letter-spacing: 0.056em;
+  line-height: 1.1em;
+  margin-right: 41px;
+}
+
+.hello-page__hello-text {
+  white-space: pre-line;
+  font-size: 25px;
+  letter-spacing: 0.15em;
+  margin-bottom: 2%;
+  display: block;
+}
+
+.hello-page__bold-text {
+  font-family: 'Gilroy-Bold';
+}

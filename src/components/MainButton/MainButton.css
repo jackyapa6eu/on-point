@@ -1,0 +1,36 @@
+.main-button {
+  position: relative;
+  background: #ff6a9f;
+  padding-left: 87px;
+  padding-bottom: 23px;
+  padding-top: 23px;
+  padding-right: 33px;
+  border-radius: 80px;
+  font-size: 29px;
+  vertical-align: top;
+  font-family: 'DIN Pro';
+  margin-top: 18px;
+  border: none;
+  outline: none;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.main-button::before {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 13px;
+  top: calc(50% - 31px);
+  width: 62px;
+  height: 62px;
+  background-size: contain;
+}
+
+.main-button_place_hello-page::before {
+  background-image: url('../../images/main-button__ellipse_place_hello-page.png');
+}
+
+.main-button_place_main-message-page::before {
+  background-image: url('../../images/main-button__ellipse_place_main-message-page.png');
+}

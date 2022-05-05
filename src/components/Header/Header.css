@@ -1,0 +1,12 @@
+.header {
+  position: absolute;
+  left: 6.5%;
+  top: 1.7%;
+  z-index: 1;
+  width: 153px;
+}
+
+.header__logo {
+  width: 100%;
+  cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.slider {
+  position: relative;
+  background: grey;
+  height: 100vh;
+  display: flex;
+  width: fit-content;
+  transition: transform .4s ease-in;
+}
+
+.slider__item {
+  background: grey;
+  height: 100%;
+  width: 100vw;
+}

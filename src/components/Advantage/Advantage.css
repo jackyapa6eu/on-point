@@ -1,0 +1,18 @@
+.advantage {
+  margin-bottom: 19px;
+}
+
+.advantage__title {
+  margin: 0;
+  margin-bottom: 6px;
+  font-family: 'Gilroy-extra-bold';
+  font-size: 25px;
+  color: #8cc9e8;
+}
+
+.advantage__text {
+  margin: 0;
+  font-size: 25px;
+  font-family: 'DIN Pro';
+  white-space: pre-line;
+}
