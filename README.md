@@ -6,13 +6,22 @@
 ## Технологии
 - React
 
-## Локальный запуск приложения:  
-1. `git clone https://github.com/jackyapa6eu/on-point.git`  
-2. `cd on-point`  
-3. `npm install`  
+## Установка проекта  
+```
+git clone https://github.com/jackyapa6eu/on-point.git
+cd on-point 
+npm install
+```
 
 ## Запуск
-- `npm run start`  
+```
+npm run start
+```  
+  
+## Сборка
+```
+npm run build
+```
   
 ## [Сайт опубликован на github pages](https://jackyapa6eu.github.io/on-point/)
 
