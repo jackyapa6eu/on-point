@@ -14,5 +14,5 @@
 ## Запуск
 - `npm run start`  
   
-[Сайт опубликован на github pages](https://jackyapa6eu.github.io/on-point/)
+## [Сайт опубликован на github pages](https://jackyapa6eu.github.io/on-point/)
 
